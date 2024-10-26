@@ -47,8 +47,8 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Kaijun Wang.</span> I'm a{" "}
-        <span className="font-bold">researcher</span> at School of Computing,
+        <span className="font-bold">Hello, I&apos;m Kaijun Wang.</span> I&apos;m
+        a <span className="font-bold">researcher</span> at School of Computing,
         National University, focusing on human-computer interaction (
         <span className="font-bold">HCI</span>).
       </motion.h1>

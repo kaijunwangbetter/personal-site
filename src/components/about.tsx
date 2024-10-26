@@ -18,20 +18,21 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        Now I'm a <span className="font-medium">research assistant</span>
+        Now I&apos;m a <span className="font-medium">research assistant</span>
         in AI4SG Lab at School of Computing, National University of Singapore.
-        I'm working with <span className="font-medium">Dr. Yi-Chieh Lee</span>.
-        Before that, I earned my bachelor's degree in Computer Science and
-        Technology from Shanghai Jiao Tong University in 2024. During my
-        undergraduate studies, I'm fortunate to have the opportunity to work
-        with <span className="font-medium">Dr. Yanyan Shen</span> and{" "}
+        I&apos;m working with{" "}
+        <span className="font-medium">Dr. Yi-Chieh Lee</span>. Before that, I
+        earned my bachelor&apos;s degree in Computer Science and Technology from
+        Shanghai Jiao Tong University in 2024. During my undergraduate studies,
+        I&apos;m fortunate to have the opportunity to work with{" "}
+        <span className="font-medium">Dr. Yanyan Shen</span> and{" "}
         <span className="font-medium">Dr. Bingsheng He</span> on several
         research.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy watching
-        videos, and listening to music. I also enjoy{" "}
+        <span className="italic">When I&apos;m not coding</span>, I enjoy
+        watching videos, and listening to music. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about <span className="font-medium">Music and Japanese</span>.
       </p>
